@@ -1,7 +1,7 @@
 ffffffdsfsfsfsdfsfsdf
 fsdfsdfsdfsdfsdfsfsdfsd
-2
-4
+233
+433
 nguyen van B
 321
 4
@@ -25,6 +25,8 @@ bbbbbbbbbbbbbb
 eeeeeeeeeeeeeeeeeeeeeeee
 333333333333333333333333333333333
 6666666666666666666666666666666
+22
+33
 Ð? s? d?ng TortoiseGit, c?n cài d?t msysgit tru?c. T? trang web du?i dây hãy t?i trình cài d?t (installer) r?i cài d?t. 
 http://msysgit.github.io/
 
