@@ -2,10 +2,9 @@
 12
 le xuan nam
 Private Sub frmMain_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+1111111
 
-        Me.Text = "Hoya ASY - Version 1.1 Release 1 on 21/02/2018" & "  Login by " & m_UserName
-        ClsCommonFunction.UserName = m_UserName
-        get_time_training(m_UserName)
+1111111
 
     End Sub
 i test abc
@@ -25,3 +24,4 @@ Branch master
 Khi ti?n hành commit l?n d?u trong repository thì Git s? t?o ra m?t branch có tên là master. Vì th? nh?ng l?n commit sau s? du?c thêm vào branch master cho d?n khi chuy?n d?i branch.
 Hon n?a, branch dã phân nhánh có th? ch?nh s?a t?ng h?p l?i thành 1 branch b?ng vi?c h?p l?i (merge) v?i branch khác.
 333333
+1111111
