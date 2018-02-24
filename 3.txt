@@ -13,6 +13,7 @@ fffffffffffffffffffffddf
 fffffffffffffffffffffffffffffffff
 ddddddddddddddddddd
 
+Hon n?a, branch dã phân nhánh có th? ch?nh s?a t?ng h?p l?i thành 1 branch b?ng vi?c h?p l?i (merge) v?i branch khác.
 dddddddddddddddddddddddd
 dddddddddddddddddddddddddddd
 kkkkkkkkkkkkkkkkkkkkkkkkkkkk

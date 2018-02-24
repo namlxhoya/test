@@ -20,3 +20,6 @@ fffffffffffffffffffffffffffff
 gggggggggggggggggggggggggggggggggggg
 
 456
+Branch master
+Khi ti?n hành commit l?n d?u trong repository thì Git s? t?o ra m?t branch có tên là master. Vì th? nh?ng l?n commit sau s? du?c thêm vào branch master cho d?n khi chuy?n d?i branch.
+Hon n?a, branch dã phân nhánh có th? ch?nh s?a t?ng h?p l?i thành 1 branch b?ng vi?c h?p l?i (merge) v?i branch khác.
