@@ -25,3 +25,5 @@ Khi ti?n hành commit l?n d?u trong repository thì Git s? t?o ra m?t branch có tê
 Hon n?a, branch dã phân nhánh có th? ch?nh s?a t?ng h?p l?i thành 1 branch b?ng vi?c h?p l?i (merge) v?i branch khác.
 333333
 1111111
+5555555555555555555
+66666666666666666666
