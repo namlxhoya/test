@@ -3,6 +3,12 @@
 nguyen van B
 321
 4
+<<<<<<< HEAD
 fffffffffffffffffffffff
 fffffffffffffffffffffffffffff
 fffffffffffffffffffffffffffffffff
+=======
+ddddddddddddddddddd
+dddddddddddddddddddddddd
+dddddddddddddddddddddddddddd
+>>>>>>> 7e9bdf805bac6eac2d7dbc0fa39f3f61f99de34a
