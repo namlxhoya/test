@@ -1,1 +1,8 @@
 12
+Private Sub frmMain_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+        Me.Text = "Hoya ASY - Version 1.1 Release 1 on 21/02/2018" & "  Login by " & m_UserName
+        ClsCommonFunction.UserName = m_UserName
+        get_time_training(m_UserName)
+
+    End Sub
