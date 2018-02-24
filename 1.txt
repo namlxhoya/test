@@ -1,32 +1,5 @@
-12
-le xuan nam
-We bring the awesome Git SCM to Windows
-Welcome to the Git for Windows project!
+1111111
 
-This Google Group is intended for all discussions revolving around the Windows-specific part of the development of Git. The source code is hosted on https://github.com/git-for-windows/
+1111111
 
-
-
-
-Private Sub frmMain_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
-        Me.Text = "Hoya ASY - Version 1.1 Release 1 on 21/02/2018" & "  Login by " & m_UserName
-        ClsCommonFunction.UserName = m_UserName
-        get_time_training(m_UserName)
-
-    End Sub
-i test abc
-We bring the awesome Git SCM to Windows
- Private Sub frmMain_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
-        Me.Text = "Hoya ASY - Version 1.1 Release 1 on 21/02/2018" & "  Login by " & m_UserName
-        ClsCommonFunction.UserName = m_UserName
-        get_time_training(m_UserName)
-
-    End Sub
-jjjjjjjjjjjjjjjjjjjjjjjjjjj
-fffffffffffffffffffffffffffff
-gggggggggggggggggggggggggggggggggggg
-
-456
-We bring the awesome Git SCM to Windows
+1111111
