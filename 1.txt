@@ -7,3 +7,4 @@ Private Sub frmMain_Load(ByVal sender As System.Object, ByVal e As System.EventA
         get_time_training(m_UserName)
 
     End Sub
+i test abc
