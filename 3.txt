@@ -1,14 +1,21 @@
+ffffffdsfsfsfsdfsfsdf
+fsdfsdfsdfsdfsdfsfsdfsd
 2
 4
 nguyen van B
 321
 4
-<<<<<<< HEAD
 fffffffffffffffffffffff
 fffffffffffffffffffffffffffff
+ggggggggggggggggggg
+ddddddddddddddddddddddd
+fffffffffffffffffffffddf
 fffffffffffffffffffffffffffffffff
-=======
 ddddddddddddddddddd
 dddddddddddddddddddddddd
 dddddddddddddddddddddddddddd
->>>>>>> 7e9bdf805bac6eac2d7dbc0fa39f3f61f99de34a
+bbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbb
+eeeeeeeeeeeeeeeeeeeeeeee
+333333333333333333333333333333333
+6666666666666666666666666666666
