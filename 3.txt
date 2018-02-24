@@ -5,6 +5,12 @@ fsdfsdfsdfsdfsdfsfsdfsd
 nguyen van B
 321
 4
+Welcome to the Git for Windows project!
+
+This Google Group is intended for all discussions revolving around the Windows-specific part of the development of Git. The source code is hosted on https://github.com/git-for-windows/
+
+
+
 fffffffffffffffffffffff
 fffffffffffffffffffffffffffff
 ggggggggggggggggggg
@@ -26,4 +32,10 @@ eeeeeeeeeeeeeeeeeeeeeeee
 6666666666666666666666666666666
 Ð? s? d?ng TortoiseGit, c?n cài d?t msysgit tru?c. T? trang web du?i dây hãy t?i trình cài d?t (installer) r?i cài d?t. 
 http://msysgit.github.io/
+Welcome to the Git for Windows project!
+
+This Google Group is intended for all discussions revolving around the Windows-specific part of the development of Git. The source code is hosted on https://github.com/git-for-windows/
+
+
+
 
